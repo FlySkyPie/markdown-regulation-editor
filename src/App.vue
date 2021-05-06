@@ -27,7 +27,7 @@
       <v-spacer></v-spacer>
     </v-app-bar>
 
-    <v-main>
+    <v-main class="mb-5">
       <RegulationEditor/>
     </v-main>
   </v-app>
